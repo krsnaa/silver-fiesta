@@ -1,7 +1,5 @@
 /*
-  Sidebar
+  Main
 */
-
-
 
 /* footer */
